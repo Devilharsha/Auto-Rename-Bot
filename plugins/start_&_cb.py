@@ -14,7 +14,7 @@ async def start(client, message):
       InlineKeyboardButton('💬 channel 2', url='https://t.me/+K__frpdkHtw4ZGQ1')
     ],[
       InlineKeyboardButton('⚙️ Help', callback_data='help'),
-      InlineKeyboardButton('💙 About', callback_data='about')
+      InlineKeyboardButton('💙 Channel 3', url='https://t.me/+ZAzbGIK9Qg5lMmM1')
     ],[
         InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url='https://t.me/devilharsha_2153')
     ]])
